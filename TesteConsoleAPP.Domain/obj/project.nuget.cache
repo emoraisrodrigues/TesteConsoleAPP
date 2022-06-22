@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3NgjUz0AQafNyEaJCGnrzYJm2P/mb4XMIoPvyF3Dspu3PD+1TZMh7BxXva6V+PwnrY6JDUmdJ5Q0a9P2GeuASw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Work\\Documents\\TesteConsoleAPP\\TesteConsoleAPP.Domain\\TesteConsoleAPP.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TesteConsoleAPP.Service/1.0.0": {
+        "dependencies": {
+          "TesteConsoleAPP.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TesteConsoleAPP.Service.dll": {}
+        }
+      },
+      "TesteConsoleAPP.Domain/1.0.0": {
+        "runtime": {
+          "TesteConsoleAPP.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteConsoleAPP.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TesteConsoleAPP.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

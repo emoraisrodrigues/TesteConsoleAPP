@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TesteConsoleAPP.Domain\TesteConsoleAPP.Domain.csproj" />
+    <ProjectReference Include="..\TesteConsoleAPP.Service\TesteConsoleAPP.Service\TesteConsoleAPP.Service.csproj" />
+  </ItemGroup>
+
+</Project>

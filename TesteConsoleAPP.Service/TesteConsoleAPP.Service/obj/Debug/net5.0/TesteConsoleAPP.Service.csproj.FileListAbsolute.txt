@@ -1,0 +1,15 @@
+C:\Users\Work\Documents\TesteConsoleAPP\TesteConsoleAPP.Service\TesteConsoleAPP.Service\bin\Debug\net5.0\TesteConsoleAPP.Service.deps.json
+C:\Users\Work\Documents\TesteConsoleAPP\TesteConsoleAPP.Service\TesteConsoleAPP.Service\bin\Debug\net5.0\TesteConsoleAPP.Service.dll
+C:\Users\Work\Documents\TesteConsoleAPP\TesteConsoleAPP.Service\TesteConsoleAPP.Service\bin\Debug\net5.0\TesteConsoleAPP.Service.pdb
+C:\Users\Work\Documents\TesteConsoleAPP\TesteConsoleAPP.Service\TesteConsoleAPP.Service\bin\Debug\net5.0\TesteConsoleAPP.Domain.dll
+C:\Users\Work\Documents\TesteConsoleAPP\TesteConsoleAPP.Service\TesteConsoleAPP.Service\bin\Debug\net5.0\TesteConsoleAPP.Domain.pdb
+C:\Users\Work\Documents\TesteConsoleAPP\TesteConsoleAPP.Service\TesteConsoleAPP.Service\obj\Debug\net5.0\TesteConsoleAPP.Service.csproj.AssemblyReference.cache
+C:\Users\Work\Documents\TesteConsoleAPP\TesteConsoleAPP.Service\TesteConsoleAPP.Service\obj\Debug\net5.0\TesteConsoleAPP.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\Documents\TesteConsoleAPP\TesteConsoleAPP.Service\TesteConsoleAPP.Service\obj\Debug\net5.0\TesteConsoleAPP.Service.AssemblyInfoInputs.cache
+C:\Users\Work\Documents\TesteConsoleAPP\TesteConsoleAPP.Service\TesteConsoleAPP.Service\obj\Debug\net5.0\TesteConsoleAPP.Service.AssemblyInfo.cs
+C:\Users\Work\Documents\TesteConsoleAPP\TesteConsoleAPP.Service\TesteConsoleAPP.Service\obj\Debug\net5.0\TesteConsoleAPP.Service.csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\TesteConsoleAPP\TesteConsoleAPP.Service\TesteConsoleAPP.Service\obj\Debug\net5.0\TesteConsoleAPP.Service.csproj.CopyComplete
+C:\Users\Work\Documents\TesteConsoleAPP\TesteConsoleAPP.Service\TesteConsoleAPP.Service\obj\Debug\net5.0\TesteConsoleAPP.Service.dll
+C:\Users\Work\Documents\TesteConsoleAPP\TesteConsoleAPP.Service\TesteConsoleAPP.Service\obj\Debug\net5.0\refint\TesteConsoleAPP.Service.dll
+C:\Users\Work\Documents\TesteConsoleAPP\TesteConsoleAPP.Service\TesteConsoleAPP.Service\obj\Debug\net5.0\TesteConsoleAPP.Service.pdb
+C:\Users\Work\Documents\TesteConsoleAPP\TesteConsoleAPP.Service\TesteConsoleAPP.Service\obj\Debug\net5.0\ref\TesteConsoleAPP.Service.dll
